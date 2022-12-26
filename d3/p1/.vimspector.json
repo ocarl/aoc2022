@@ -1,0 +1,12 @@
+{
+  "configurations": {
+    "launch": {
+      "adapter": "CodeLLDB",
+      "filetypes": [ "rust" ],
+      "configuration": {
+        "request": "launch",
+        "program": "/home/carl/rust/aoc2022/d3/p1/target/debug/p1"
+      }
+    }
+  }
+}
